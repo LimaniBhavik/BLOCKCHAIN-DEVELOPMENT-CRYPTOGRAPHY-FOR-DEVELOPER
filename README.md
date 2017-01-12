@@ -1,0 +1,13 @@
+# CRYPTOGRAPHY-FOR-DEVELOPER
+Source for Learning CRYPTOGRAPHY  
+
+<li><a href="http://online.stanford.edu/course/cryptography-1-winter-2014">Stanford University CRYPTOGRAPHY I-2014</a></li>
+<li><a href="http://online.stanford.edu/course/cryptography-2-2014">Stanford University CRYPTOGRAPHY II-2014</a></li>
+<li><a href="http://online.stanford.edu/course/cryptography-i-summer-2016">Stanford University Cryptography I 2016</a></li>
+<li><a href="https://www.coursera.org/learn/crypto">Coursera Cryptography</a></li>
+<li><a href="https://github.com/mgraczyk/coursera-crypto1">Coursera Cryptography Examples GitHub</a></li>
+
+
+
+
+
