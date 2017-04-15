@@ -1,4 +1,4 @@
-# CRYPTOGRAPHY-FOR-DEVELOPER
+# LECTURES CRYPTOGRAPHY-FOR-DEVELOPER
 Source for Learning CRYPTOGRAPHY  
 
 <li><a href="http://online.stanford.edu/course/cryptography-1-winter-2014">Stanford University CRYPTOGRAPHY I-2014</a></li>
