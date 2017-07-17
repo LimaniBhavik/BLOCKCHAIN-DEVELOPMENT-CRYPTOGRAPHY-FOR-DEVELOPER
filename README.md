@@ -6,8 +6,11 @@ Source for Learning CRYPTOGRAPHY
 <li><a href="http://online.stanford.edu/course/cryptography-i-summer-2016">Stanford University Cryptography I 2016</a></li>
 <li><a href="https://www.coursera.org/learn/crypto">Coursera Cryptography</a></li>
 <li><a href="https://github.com/mgraczyk/coursera-crypto1">Coursera Cryptography Examples GitHub</a></li>
+<li><a href="https://www.youtube.com/watch?v=jIWOR2bGC7c">Tutorial on Homomorphic Encryption (part 1)</a></li>
+<li><a href="https://www.youtube.com/watch?v=huLGjBpj3Os">Tutorial on Homomorphic Encryption (part 2)</a></li>
 
 
-
+#YouTube Channel 
+<li><a href="https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ">Aantonop YouTube</a></li>
 
 
