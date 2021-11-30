@@ -24,7 +24,6 @@ Source for Learning CRYPTOGRAPHY
 
 
 
-
 # YouTube Channel 
 <li><a href="https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ">Aantonop YouTube</a></li>
 <br/>
@@ -100,3 +99,72 @@ P2P networks:
 -------------
 
 [P2P Networks and Applications](https://www.youtube.com/playlist?list=PL435B8B43CC7D2F89) by University Paderborn
+
+
+Blockchain & Crypto Fundamentals:
+---------------------------------
+- [Coindesk Learn](https://www.coindesk.com/learn/)
+- [Coinbase Learn](https://www.coinbase.com/learn)
+- [Decrypt Learn](https://decrypt.co/learn)
+- [Unchained Podcast](https://unchainedpodcast.com/)
+- [Unconfirmed](https://unchainedpodcast.com/category/unconfirmed/)
+
+Stanford Blockchain Recordings:
+-------------------------------
+- [YouTube Channel](https://www.youtube.com/c/StanfordBlockchainClub)
+
+Other Stanford Crypto Communities:
+----------------------------------
+- [Center for Blockchain Research](https://cbr.stanford.edu/)
+- [Future of Digital Currency Initiative](https://fdc.stanford.edu/fdci.html)
+- [Stanford Law Blockchain Group](https://law.stanford.edu/projects/blockchain-group/)
+
+Stanford Courses:
+-----------------
+- CS 251: Cryptocurrencies and blockchain technologies
+- CS 255: Introduction to Cryptography
+- EE 374: Internet-Scale Consensus in the Blockchain Era
+- BIOE 60: Beyond Bitcoin: Applications of Distributed Trust
+- INTLPOL 268D: Online Open Source Investigation
+- LAW 1043: Blockchain and Cryptocurrencies: Law, Economics, Business and Policy
+
+VC / DAO Investing:
+-------------------
+- [Token Investing Explained](https://www.nfx.com/post/token-investing/)
+- [DAOs Investing](https://decrypt.co/66933/why-this-dao-bought-snowden-nft)
+
+DAO:
+----
+- [A16Z DAO Canon](https://future.a16z.com/dao-canon/)
+
+DeFi:
+-----
+- [DeFi Ecosystem Map](https://tokeny.com/defi-ecosystem/)
+- [The Defiant Guide to DeFi](https://newsletter.thedefiant.io/p/the-defiants-definitive-guide-to)
+- [How to DeFi (book)](https://drive.google.com/file/d/1ffkR101s-5FNPOXJO6JJMbLFmmHs-q0t/view)
+- [DeFi MOOC](https://defi-learning.org/)
+- [Modern Finance Podcast](https://modern.finance/)
+
+NFTs:
+-----
+- [Sotheby’s on NFTs](https://www.sothebys.com/en/articles/nfts-redefining-digital-ownership-and-scarcity#:~:text=NFTs%20are%20a%20paradigm%20shift,value%20into%20the%20digital%20realm.)
+- [A16Z Podcast on NFTs](https://a16z.com/2021/05/19/a16z-podcast-nft-use-cases-today-and-tomorrow/)
+- [A16Z NFT Canon](https://future.a16z.com/nft-canon/)
+
+Custody:
+--------
+- [Custodial vs Non-Custodial Wallets](https://www.gemini.com/cryptopedia/crypto-wallets-custodial-vs-noncustodial#section-it-comes-down-to-how-you-want-to-secure-your-crypto)
+- [Coinbase Vault](https://help.coinbase.com/en/coinbase/getting-started/other/vaults-faq)
+- [Hardware Wallets Explained](https://medium.com/radartech/hardware-wallets-explained-da8bd93ce801)
+- [Non-Custodial Wallet Metamask](https://consensys.net/blog/metamask/whats-in-a-self-custody-non-custodial-wallet-anyway/)
+
+Crypto Startup:
+---------------
+- [A16Z Crypto Startup School](https://a16z.com/crypto-startup-school/)
+- Stanford Blockchain Accelerator Program (contact kun@stanford.edu for more
+information)
+
+By Stanford Students:
+---------------------
+- [A Guide to Effectively Cheating NFT Launches (and detecting cheaters)](https://medium.com/@convexlabs/a-guide-to-effectively-cheating-nft-launches-and-detecting-cheaters-a76143ef8ad8#163d)
+- [GSB x Intro to Crypto](https://www.youtube.com/watch?v=a6Dg9sQ5YWs)
