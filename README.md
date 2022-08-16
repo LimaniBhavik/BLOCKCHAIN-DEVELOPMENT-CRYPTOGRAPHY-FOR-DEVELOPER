@@ -168,3 +168,29 @@ By Stanford Students:
 ---------------------
 - [A Guide to Effectively Cheating NFT Launches (and detecting cheaters)](https://medium.com/@convexlabs/a-guide-to-effectively-cheating-nft-launches-and-detecting-cheaters-a76143ef8ad8#163d)
 - [GSB x Intro to Crypto](https://www.youtube.com/watch?v=a6Dg9sQ5YWs)
+
+
+Protocols/Companies
+- Uniswap
+- Compound
+- Aave
+- Avalanche
+- MakerDAO
+- Curve
+- Umani
+- Perpetual Protocol
+- PancakeSwap
+- GMX
+- Spell
+- Balancer
+- Redacted Cartel
+- Fantom
+- OlympusDAO
+- Superfluid
+- Aptos
+- TrueFi
+- Serum
+- UXD
+- Liquity
+- Mango Markets
+- BitDAO
