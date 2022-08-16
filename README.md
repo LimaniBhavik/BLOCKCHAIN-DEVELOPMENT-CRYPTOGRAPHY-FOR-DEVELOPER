@@ -171,6 +171,7 @@ By Stanford Students:
 
 
 Protocols/Companies
+---------------------
 - Uniswap
 - Compound
 - Aave
@@ -194,3 +195,9 @@ Protocols/Companies
 - Liquity
 - Mango Markets
 - BitDAO
+
+Zero Knowledge
+---------------------
+- Snarks
+- Starks
+- Bulletproof
