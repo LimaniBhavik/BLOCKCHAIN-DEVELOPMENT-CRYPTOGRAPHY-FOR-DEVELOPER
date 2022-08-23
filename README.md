@@ -169,9 +169,53 @@ By Stanford Students:
 - [A Guide to Effectively Cheating NFT Launches (and detecting cheaters)](https://medium.com/@convexlabs/a-guide-to-effectively-cheating-nft-launches-and-detecting-cheaters-a76143ef8ad8#163d)
 - [GSB x Intro to Crypto](https://www.youtube.com/watch?v=a6Dg9sQ5YWs)
 
+Zero Knowledge
+-----------------
+- Snarks
+- Starks
+- Bulletproof
 
-Protocols/Companies
----------------------
+Blockchain Frameworks
+----------------------
+- Truffle
+- Ganache
+- Drizzle
+- Hardhat
+- Brownie
+
+Digital Assets
+--------------
+- NFT
+
+Cryptocurrency
+--------------
+- ETH
+- Bitcoin
+- Solana
+- Polygon
+- EOS
+
+Decentralized Apps (dApps)
+--------------------------
+- 
+
+Smart Contract/Distributed App Development
+-------------------------------------------
+- Solidity
+- Scilla
+
+Multiple Private Blockchain Protocols
+--------------------------------------
+
+Multiple Public Blockchain Protocols
+--------------------------------------
+- Layer 1
+- Layer 2
+- Solana/Rust
+- Cosmos/Tendermint
+
+DeFi Protocol 
+-------------
 - Uniswap
 - Compound
 - Aave
@@ -195,9 +239,3 @@ Protocols/Companies
 - Liquity
 - Mango Markets
 - BitDAO
-
-Zero Knowledge
----------------------
-- Snarks
-- Starks
-- Bulletproof
