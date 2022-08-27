@@ -214,6 +214,12 @@ Multiple Public Blockchain Protocols
 - Solana/Rust
 - Cosmos/Tendermint
 
+Types of Smart Contracts
+-------------------------
+- Staking
+- Token
+- Yield Farming
+
 DeFi Protocol 
 -------------
 - Uniswap
