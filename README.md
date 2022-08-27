@@ -29,9 +29,40 @@ Source for Learning CRYPTOGRAPHY
 <br/>
 <li>Projects & Startup's based on Blockchain - https://github.com/LimaniBhavik/Blockchain-Industry</li>
 
+# Blockchain Technology (Distributed Ledger Technologies)
+---------------------------------------------------------
+
+Consensus processes
+--------------------
+Consensus processes are designed to protect against manipulation. In a consensus process, the network data are exchanged automatically when a transaction is to be recorded. Each DLT works with its own consensus-finding mechanism. In the case of Blockchain, which forms the basis of the cryptocurrency Bitcoin, a transaction is only validated and its value attached to an existing block if the majority of connected users signal that the data within the block are identical.
+
+P2P
+---
+P2P stands for “Peer-to-Peer”. In a “Peer-to-Peer” system, all participants interact directly with each other with equal authority. They use and simultaneously provide the services of the network. So there is no need for a third party to perform checks, such as, for example, a bank or notary.
+
+Proof of Work (PoW)
+-------------------
+Proof of Work guarantees the security of the system by resource-intensive transmission and validation of a multiplicity of data between the different users in the system. The proof of work is defined by the extensive calculation of complex computation tasks — difficult to perform but simple to check. This mining leads to a trustworthy, decentralized consensus and at the same time, by creating digital currencies (mining), guarantees the reward for these miners. The system can only be manipulated if a user owns more than 50% of the computing power and their system permanently works faster than the systems of the other users. It is impossible to fulfil these two conditions together. As well as the PoW process, there are further methods of ensuring consensus.
+
+Proof of Stake (PoS)
+--------------------
+PoS is an alternative consensus-finding mechanism to the “classic” →Proof of Work. The probability of block generation by a user here rises with their value share of the network. The advantages of PoS: less computing power is used, block generation in the blockchain is faster, transaction speed is increased. Disadvantage: less secure than PoW.
+
+Proof of Authority (PoA)
+------------------------
+PoA is an optimized →Proof of Stake model in which identity replaces shares in the network. So-called validators are here selected by reputation, which requires high standards and thorough checking in selection. The transaction speed rises in comparison with →PoW. In theory, users have better control of their data at the same time. The disadvantage of better control is that some of the benefits of decentralization are lost.
+
+Second Layer
+------------
+Second Layer protocols attempt to bypass the resource-intensive processes of →Proof of Work. In other words, a blockchain system forms the basis for a second layer which only very rarely talks to this slow, very complex and very secure layer. This system behaves like a framework contract. The framework contract applies to the more expensive and slow system. In the case of flexible requirements which call for less security, individual processes can run on a second system (the second layer) which only rarely carries out back-checking. So the system achieves greater cost efficiency and more transactions.
+
+Smart Contracts
+---------------
+These algorithmic contracts have predefined conditions, so they can automatically trigger actions if these conditions are fulfilled. They form the basic structure for the performance of contracts from machine to machine — and are just the beginning of a new development towards so-called Decentralized Autonomous Organizations (DAO). These are based on DLT and are autonomously performing organizations which are guided by algorithms without human supervision. The →Ethereum platform allows such projects, including for example, in the case of Bosch applications, the autonomously charging and paying EV.
+
 
 Video lectures and courses
-==========================
+---------------------------
 
 Decentralized applications:
 ---------------------------
@@ -245,3 +276,4 @@ DeFi Protocol
 - Liquity
 - Mango Markets
 - BitDAO
+
